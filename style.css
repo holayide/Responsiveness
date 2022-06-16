@@ -14,7 +14,7 @@ main{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url('/bg-intro-desktop.png');
+    background-image: url('./bg-intro-desktop.png');
     background-size: cover;
     background-color: hsl(0, 100%, 74%);
     padding: 0px 140px;
@@ -100,7 +100,7 @@ a{
         justify-content: center;
         align-items: center;
         background-color: hsl(0, 100%, 74%);
-        background-image: url('/bg-intro-mobile.png');
+        background-image: url('./bg-intro-mobile.png');
     }
     section{
         width: 90%;
